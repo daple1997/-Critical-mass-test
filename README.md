@@ -26,3 +26,7 @@ Inspiration
  
   I would like to focus on frontend development at Critical Mass. I would make web applications using various JavaScript frameworks.
   
+ Code Challenge
+ 
+  https://codesandbox.io/s/2020-internship-exercise-menu-v6izh?fontsize=14&hidenavigation=1&theme=dark
+  I finished everything including the bonus. Please, tell me if have any questions.
